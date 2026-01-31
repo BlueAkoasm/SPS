@@ -1,2 +1,2 @@
 # SPS
-SPS: Sampling Point Selection for LiDAR-Inertial SLAM
+SPS: Selection Point Sampling for LiDAR-Inertial SLAM
